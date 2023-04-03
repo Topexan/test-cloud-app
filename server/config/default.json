@@ -1,0 +1,5 @@
+{
+    "serverPort": 5000,
+    "dbUrl": "mongodb+srv://torehan:fizmat@cloud-test.xvis9ml.mongodb.net/?retryWrites=true&w=majority",
+    "secretKey": "10class"
+}
